@@ -1,0 +1,40 @@
+html{
+    height: 100%;
+    background-image: linear-gradient(to top left, blue, violet );
+    font-family: arial;
+    
+}
+
+section{
+    float: left;
+}
+.s1{
+width: 60%;
+}
+.s2{
+    width: 20% ;
+    margin-left:15% ;
+    margin-right: 5%;
+}
+
+a{
+    color: lightgreen;
+    text-decoration: none;
+    
+}
+header{
+    color: white;
+    font-size: 50px;
+    font-family: 'Xanh Mono', monospace;
+}
+h1, h2, h3, h4{
+    font-size: x-large;
+}
+footer{
+    position: fixed;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
+}
